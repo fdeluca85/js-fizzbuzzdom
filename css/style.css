@@ -1,3 +1,29 @@
 h1{
     color: red;
 }
+
+
+.box{
+    height: 20px;
+    width: 30px;
+    border: 1px solid black;
+}
+
+.numero{
+    background-color: #1389B2;
+}
+
+
+.fizz{
+    background-color: #0BD6A1;
+}
+
+
+.buzz{
+    background-color: #FFD166;
+}
+
+
+.fizzbuzz{
+    background-color: #F0466F;
+}
