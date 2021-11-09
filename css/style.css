@@ -1,17 +1,16 @@
-h1{
-    color: red;
+body{
+    background-color: #083B4C;
 }
-
 
 .box{
     height: 20px;
     width: 30px;
-    border: 1px solid black;
+    border: 1px solid black;background-color: #1389B2;
 }
 
-.numero{
+/* .numero{
     background-color: #1389B2;
-}
+} */
 
 
 .fizz{

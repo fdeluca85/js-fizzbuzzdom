@@ -26,9 +26,9 @@ for (let i = 1; i <= 100; i++){
     } 
     // se il mumero non è un multiplo di 3 o 5
     else {
-        numero = 'numero';
+        numero = i;
         console.log(i);
     }
 
-    ul.innerHTML += `<li class="box ${numero}">${i}</li>`;
+    ul.innerHTML += `<li class="box ${numero}">${numero}</li>`;
 }
